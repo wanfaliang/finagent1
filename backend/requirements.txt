@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+sqlalchemy
+pandas
+numpy
+scikit-learn
+yfinance
+ta
+python-dotenv
+passlib
+bcrypt
+torch                    # Required for FinBERT model
+transformers             # Required for sentiment analysis
+statsmodels              # Required for ARIMA model
+pydantic               # Required for data validation
+pytest                   # Required for testing
